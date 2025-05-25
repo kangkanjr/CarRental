@@ -1,6 +1,6 @@
 # Car Rental Speed Monitor - Android App
 
-[![Download README](https://img.shields.io/badge/Download-README.md-blue?style=flat-square)](https://raw.githubusercontent.com/kangkanjr/CarRental/main/README.md)
+[![Download README](https://img.shields.io/badge/Download-README.md-blue?style=flat-square)](https://raw.githubusercontent.com/kangkanjr/CarRental/master/README.md)
 
 A minimal Android app that detects speeding vehicles in rental fleets and sends alerts.
 
